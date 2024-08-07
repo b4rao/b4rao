@@ -2,8 +2,6 @@
 
 <img src = "banner.webp" width = "355px" align = "right">
 
-##
-
 <h3 align="left">🤓 About me:</h3>
 
 - 🔭 I'm currently studying at **[FIAP](https://github.com/FIAP)**
@@ -13,7 +11,6 @@
 - ⭐ I love **Survival Games**, **Travels** and **Motorcycles**
 
 ##
-
 
 <h3 align="center">🛠️&nbsp&nbspLanguages and Tools&nbsp&nbsp🛠️</h3>
 
