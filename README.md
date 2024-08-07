@@ -1,4 +1,4 @@
-<img src = "banner.webp" width = "575px" align = "right">
+<img src = "banner.webp" width = "375px" align = "right">
 
 # Welcome to my GitHub! It's good to see you here! 👨🏻‍💻👾
 
