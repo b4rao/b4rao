@@ -1,6 +1,6 @@
-<img src = "banner.webp" width = "375px" align = "right">
-
 # Welcome to my GitHub! It's good to see you here! 👨🏻‍💻👾
+
+<img src = "banner.webp" width = "355px" align = "right">
 
 <h3 align="left">🤓 About me:</h3>
 
