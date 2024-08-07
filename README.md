@@ -2,6 +2,8 @@
 
 <img src = "banner.webp" width = "355px" align = "right">
 
+##
+
 <h3 align="left">🤓 About me:</h3>
 
 - 🔭 I'm currently studying at **[FIAP](https://github.com/FIAP)**
